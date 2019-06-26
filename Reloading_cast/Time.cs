@@ -25,7 +25,7 @@ namespace Reloading_cast
         }
         public void Show()
         {
-            Console.WriteLine("Time : {0}:{1}:{2}.{3}",Hours, Minutes, Seconds, Miliseconds);
+            Console.WriteLine("Time : {0}:{1}:{2}.{3}", Hours, Minutes, Seconds, Miliseconds);
         }
     }
 }
